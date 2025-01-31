@@ -46,16 +46,16 @@ global.location = "Nigeria, Cross River, Calabar" //ur location
 //new
 global.botname = ' `𝐄𝐒 𝐓𝐄𝐀𝐌𝐒 𝐕𝟏`' //ur bot name
 global.ownernumber = ['256751617788'] //ur owner number, dont add more than one
-global.ownername = 'ZIK 𝗧𝗘𝗖𝗛' //ur owner name
+global.ownername = '> ZIK 𝗧𝗘𝗖𝗛' //ur owner name
 global.websitex = "https://YouTube.com/@esteams"
-global.wagc = "https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y"
+global.wagc = "https://whatsapp.com/channel/0029Vaj1vKSK5cDT4tVvY1y"
 global.themeemoji = '⛩'
 global.wm = "Es Teams Bot Inc."
 global.botscript = 'https://github.com/paskito002/ES_TEAMS-V1' //script link
 global.packname = "ES TEAMS"
 global.author = "MΛDΣ BY ES TEAMS TECH"
 global.creator = "2349037524605@s.whatsapp.net"
-global.xprefix = '+'
+global.xprefix = '!'
 global.premium = ["256751617788"] // Premium User
 
 //bot sett
